@@ -1,12 +1,13 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a Microsoft .NET developer in Melbourne, Australia, specialising in Azure and Azure AI. I'm a Microsoft Certified Solutions Developer in Web Applications, with certifications in Azure and Azure AI",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    ".NET",
+    "Azure",
+    "Azure AI",
+    "Technical Leadership",
+    "Software Design",
+    "Architecture",
+    "Devops"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "25 years Web Development | 20 years C#.NET | MCSD/MCAD Microsoft Certified Solutions | Senior Developer (.NET/Azure/AI) | Technical Leadership | Azure AI and ML Experience | MVC Expert, ASP.NET Core | Extensive Azure experience, Cloud Architecture | Passionate about SOLID design principles, refactoring and clean code | Quality focussed: Extremely strong Test automation skills | Wide range of Devops experience | Experience in startups, medium & large corporations"
 }
